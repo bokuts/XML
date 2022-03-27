@@ -1,5 +1,6 @@
-<XML>
-	<name>Tatsiana</name>
-	<age>25</age>
-	<pets>3</pets>
-	<salary>1000$</salary>
+<date>
+        <name>Tatsiana</name>
+        <age>25</age>
+        <pets>3</pets>
+        <salary>1000$</salary>
+</date>
